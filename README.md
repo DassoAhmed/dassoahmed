@@ -19,8 +19,6 @@ Hi there, I'm **Dasso Ahmed** - aka mobile developer/web 👋
 
 I'm passionate about creating amazing web experiences and sharing knowledge with the community.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
 ## 🔭 Current Focus
 
 - 🌱 **Building:** Making Projects
