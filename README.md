@@ -19,10 +19,6 @@ Hi there, I'm **Dasso Ahmed** - aka mobile developer/web 👋
 
 I'm passionate about creating amazing web experiences and sharing knowledge with the community.
 
-## 📊 GitHub Stats
-
-!https://github.com/DassoAhmed(https://github-readme-stats.vercel.app/api?dassoahmed=dassoahmed&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 🔭 Current Focus
@@ -46,9 +42,6 @@ I'm passionate about creating amazing web experiences and sharing knowledge with
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📈 Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/dassoahmed/count.svg)
 
 ## 📫 Connect With Me
 
