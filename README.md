@@ -5,12 +5,11 @@ Hi there, I'm **Dasso Ahmed** - aka mobile developer/web 👋
 <img align="right" alt="Profile Views" src="https://img.shields.io/badge/Profile%20Views-1,545-blue" />
 
 ##  [Archievements](https://github.com/DassoAhmed?tab=achievements)
-https://github.com/DassoAhmed?achievement=pull-shark&tab=achievements
-https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png
+[![pull-shark]([https://img.shields.io/badge/KOJI-FF6F61?style=for-the-badge&logo=koji&logoColor=white](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png))]([pull-shark](https://github.com/users/DassoAhmed/achievements/pull-shark))
+
 
 ## 🚀 Quick Links
 
-[![KOJI](https://img.shields.io/badge/KOJI-FF6F61?style=for-the-badge&logo=koji&logoColor=white)](Your-KOJI-Link)
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](Your-Linktree-Link)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](Your-Instagram-Link)
