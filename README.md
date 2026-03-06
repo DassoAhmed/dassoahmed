@@ -5,9 +5,8 @@ Hi there, I'm **Dasso Ahmed** - aka mobile developer/web 👋
 <img align="right" alt="Profile Views" src="https://img.shields.io/badge/Profile%20Views-1,545-blue" />
 
 ##  [Archievements](https://github.com/DassoAhmed?tab=achievements)
-https://github.com/users/DassoAhmed/achievements/yolo
-https://github.com/users/DassoAhmed/achievements/quickdraw
-https://github.com/users/DassoAhmed/achievements/pull-shark
+https://github.com/DassoAhmed?achievement=pull-shark&tab=achievements
+https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png
 
 ## 🚀 Quick Links
 
