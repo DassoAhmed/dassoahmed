@@ -6,7 +6,19 @@ Hi there, I'm **Dasso Ahmed** - Fullstack mobile developer/web 👋
 
 ## 🏆 Achievements
 
-[![Pull Shark Achievement](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)](https://github.com/users/DassoAhmed/achievements/pull-shark)
+<div align="center">
+  <a href="https://github.com/users/DassoAhmed/achievements/pull-shark">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark Achievement" width="120" height="120" />
+  </a>
+  
+  <a href="https://github.com/users/DassoAhmed/achievements/quickdraw">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Quickdraw Achievement" width="120" height="120" />
+  </a>
+  
+  <a href="https://github.com/users/DassoAhmed/achievements/yolo">
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="Yolo Achievement" width="120" height="120" />
+  </a>
+</div>
 
 ## 🚀 Quick Links
 
@@ -45,9 +57,17 @@ I'm passionate about creating amazing web experiences and sharing knowledge with
 
 ## 📊 GitHub Stats
 
-![DassoAhmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=DassoAhmed&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DassoAhmed&show_icons=true&theme=radical" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DassoAhmed&layout=compact&theme=radical" alt="Top Languages" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DassoAhmed&theme=radical" alt="GitHub Streak" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DassoAhmed&layout=compact&theme=radical)
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/DassoAhmed/DassoAhmed/blob/output/github-contribution-grid-snake.svg)
 
 ## 📫 Connect With Me
 
