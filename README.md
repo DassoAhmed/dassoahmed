@@ -1,32 +1,61 @@
-# 💫 About Me
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Dasso+Ahmed;Fullstack+Developer;Mobile+%26+Web+Developer" alt="Typing SVG" />
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+## 💫 About Me
 
 Hi there, I'm **Dasso Ahmed** - Fullstack mobile developer/web 👋
 
-<img align="right" alt="Profile Views" src="https://komarev.com/ghpvc/?username=DassoAhmed&style=flat-square&color=blue" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=DassoAhmed&label=Profile%20Views&color=0e75b6&style=flat" alt="DassoAhmed" />
+  <img src="https://img.shields.io/github/followers/DassoAhmed?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/DassoAhmed?label=Stars&style=social" alt="GitHub Stars" />
+</p>
 
-## 🏆 Achievements
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <a href="https://github.com/users/DassoAhmed/achievements/pull-shark">
-    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark Achievement" width="100" height="100" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/users/DassoAhmed/achievements/quickdraw">
-    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Quickdraw Achievement" width="100" height="100" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/users/DassoAhmed/achievements/yolo">
-    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="Yolo Achievement" width="100" height="100" />
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/users/DassoAhmed/achievements/pull-shark">
+          <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark Achievement" width="100" height="100" />
+          <br />
+          <strong>Pull Shark</strong>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/users/DassoAhmed/achievements/quickdraw">
+          <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Quickdraw Achievement" width="100" height="100" />
+          <br />
+          <strong>Quickdraw</strong>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/users/DassoAhmed/achievements/yolo">
+          <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="Yolo Achievement" width="100" height="100" />
+          <br />
+          <strong>YOLO</strong>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🚀 Quick Links
 
+<div align="center">
+  
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](Your-Linktree-Link)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dassoahmed@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/baban_camarou/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadou-dasso-4bb780179/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EHTESHA29119904)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](Your-Portfolio-Link)
+
+</div>
 
 ## 👨‍🎓 Who Am I?
 
@@ -39,13 +68,15 @@ I'm passionate about creating amazing web experiences and sharing knowledge with
 - 🌱 **Building:** Making Projects
 - 📚 **Learning:** Everything 🎓 (especially web languages to become a Full Stack Web Developer)
 - 👯 **Collaborating:** Looking to collaborate with other content creators
-- 🎯 **2023 Goals:**
+- 🎯 **2024 Goals:**
   - Contribute more to Open Source projects
   - Reach 1k followers on Instagram
-- ⚡ **Fun fact:** I love to code!
+- ⚡ **Fun fact:** I love to code and solve problems!
 
 ## 🛠️ Languages & Tools
 
+<div align="center">
+  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -54,46 +85,85 @@ I'm passionate about creating amazing web experiences and sharing knowledge with
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-## 📊 GitHub Stats
+</div>
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DassoAhmed&show_icons=true&theme=radical&hide_border=true" alt="DassoAhmed's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DassoAhmed&theme=radical&hide_border=true" alt="DassoAhmed's GitHub Streak" width="48%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DassoAhmed&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DassoAhmed&layout=compact&langs_count=8&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DassoAhmed&layout=compact&theme=radical&hide_border=true" alt="DassoAhmed's Top Languages" width="45%" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DassoAhmed&theme=radical&hide_border=true" />
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DassoAhmed&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DassoAhmed/DassoAhmed/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DassoAhmed/DassoAhmed/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://github.com/DassoAhmed/DassoAhmed/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
+  
+![Snake animation](https://raw.githubusercontent.com/DassoAhmed/DassoAhmed/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
-> **Note:** The snake animation requires a GitHub Action to generate. Add this workflow to see it: [Platane/snk](https://github.com/Platane/snk)
+> **Note:** The snake animation automatically generates every 12 hours. If you don't see it, create a GitHub Action workflow using [Platane/snk](https://github.com/Platane/snk)
 
-## 📈 Activity Graph
+## 🎵 Currently Listening To
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DassoAhmed&theme=react-dark&hide_border=true" alt="DassoAhmed's Activity Graph" width="95%" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=default&show_offline=false&background_color=121212" />
+</div>
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DassoAhmed&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+</div>
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 ## 📫 Connect With Me
 
-- 📧 Email: dassoahmed@gmail.com
-- 💼 LinkedIn: [Ahmadou Dasso](https://www.linkedin.com/in/ahmadou-dasso-4bb780179/)
-- 📸 Instagram: [@baban_camarou](https://www.instagram.com/baban_camarou/)
+<div align="center">
+  
+📧 **Email:** dassoahmed@gmail.com  
+💼 **LinkedIn:** [Ahmadou Dasso](https://www.linkedin.com/in/ahmadou-dasso-4bb780179/)  
+📸 **Instagram:** [@baban_camarou](https://www.instagram.com/baban_camarou/)  
+🐦 **Twitter:** [@EHTESHA29119904](https://twitter.com/EHTESHA29119904)
+
+</div>
+
+## 💰 Support My Work
+
+<div align="center">
+  
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/your-username)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/your-username)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/your-username)
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=DassoAhmed&fontSize=30&fontAlignY=70" width="100%"/>
 </div>
 
-⭐️ From [Dasso Ahmed](https://github.com/DassoAhmed)
+<div align="center">
+  
+⭐️ From [Dasso Ahmed](https://github.com/DassoAhmed) | Last updated: 2024
+
+</div>
