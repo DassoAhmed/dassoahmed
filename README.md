@@ -111,22 +111,24 @@ I'm passionate about creating amazing web experiences and sharing knowledge with
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/DassoAhmed/DassoAhmed/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/DassoAhmed/DassoAhmed/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
-> **Note:** The snake animation automatically generates every 12 hours. If you don't see it, create a GitHub Action workflow using [Platane/snk](https://github.com/Platane/snk)
+> **Note:** The snake animation requires a GitHub Action workflow to generate. Add the [Platane/snk action](https://github.com/Platane/snk) to your repository to enable it.
 
 ## 🎵 Currently Listening To
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=default&show_offline=false&background_color=121212" />
+  <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" width="400"/>
 </div>
+
+> **Note:** Update the Spotify section with your actual username or remove it if not needed.
 
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DassoAhmed&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DassoAhmed&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 ## ✍️ Random Dev Quote
@@ -142,7 +144,7 @@ I'm passionate about creating amazing web experiences and sharing knowledge with
 📧 **Email:** dassoahmed@gmail.com  
 💼 **LinkedIn:** [Ahmadou Dasso](https://www.linkedin.com/in/ahmadou-dasso-4bb780179/)  
 📸 **Instagram:** [@baban_camarou](https://www.instagram.com/baban_camarou/)  
-🐦 **Twitter:** [@EHTESHA29119904](https://twitter.com/EHTESHA29119904)
+🐦 **Facebook:** [@ahmed.nidal.311](https://www.facebook.com/ahmed.nidal.311)
 
 </div>
 
@@ -150,9 +152,9 @@ I'm passionate about creating amazing web experiences and sharing knowledge with
 
 <div align="center">
   
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/your-username)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/your-username)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/your-username)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dassoahmed)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dassoahmed)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dassoahmed)
 
 </div>
 
