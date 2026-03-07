@@ -1,24 +1,24 @@
 # 💫 About Me
 
-Hi there, I'm **Dasso Ahmed** - aka mobile developer/web 👋
+Hi there, I'm **Dasso Ahmed** - Fullstack mobile developer/web 👋
 
-<img align="right" alt="Profile Views" src="https://img.shields.io/badge/Profile%20Views-1,545-blue" />
+<img align="right" alt="Profile Views" src="https://visitor-badge.laobi.icu/badge?page_id=DassoAhmed.DassoAhmed" />
 
-##  [Archievements](https://github.com/DassoAhmed?tab=achievements)
-[![pull-shark]([https://img.shields.io/badge/KOJI-FF6F61?style=for-the-badge&logo=koji&logoColor=white](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png))]([pull-shark](https://github.com/users/DassoAhmed/achievements/pull-shark))
+## 🏆 Achievements
 
+[![Pull Shark Achievement](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)](https://github.com/users/DassoAhmed/achievements/pull-shark)
 
 ## 🚀 Quick Links
 
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](Your-Linktree-Link)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](Your-Instagram-Link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Your-LinkedIn-Link)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dassoahmed@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/baban_camarou/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadou-dasso-4bb780179/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EHTESHA29119904)
 
 ## 👨‍🎓 Who Am I?
 
-**Student** | **Developer** | **Enterpreneur**
+**Student** | **Developer** | **Entrepreneur**
 
 I'm passionate about creating amazing web experiences and sharing knowledge with the community.
 
@@ -43,13 +43,18 @@ I'm passionate about creating amazing web experiences and sharing knowledge with
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 📊 GitHub Stats
+
+![DassoAhmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=DassoAhmed&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DassoAhmed&layout=compact&theme=radical)
 
 ## 📫 Connect With Me
 
 - 📧 Email: dassoahmed@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/ahmadou-dasso-4bb780179/
-- 📸 Instagram: https://www.instagram.com/baban_camarou/
+- 💼 LinkedIn: [Ahmadou Dasso](https://www.linkedin.com/in/ahmadou-dasso-4bb780179/)
+- 📸 Instagram: [@baban_camarou](https://www.instagram.com/baban_camarou/)
 
 ---
 
-⭐️ From Dasso Ahmed(https://github.com/DassoAhmed)
+⭐️ From [Dasso Ahmed](https://github.com/DassoAhmed)
