@@ -2,21 +2,21 @@
 
 Hi there, I'm **Dasso Ahmed** - Fullstack mobile developer/web 👋
 
-<img align="right" alt="Profile Views" src="https://visitor-badge.laobi.icu/badge?page_id=DassoAhmed.DassoAhmed" />
+<img align="right" alt="Profile Views" src="https://komarev.com/ghpvc/?username=DassoAhmed&style=flat-square&color=blue" />
 
 ## 🏆 Achievements
 
 <div align="center">
   <a href="https://github.com/users/DassoAhmed/achievements/pull-shark">
-    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark Achievement" width="120" height="120" />
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark Achievement" width="100" height="100" />
   </a>
-  
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/users/DassoAhmed/achievements/quickdraw">
-    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Quickdraw Achievement" width="120" height="120" />
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Quickdraw Achievement" width="100" height="100" />
   </a>
-  
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/users/DassoAhmed/achievements/yolo">
-    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="Yolo Achievement" width="120" height="120" />
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="Yolo Achievement" width="100" height="100" />
   </a>
 </div>
 
@@ -58,16 +58,31 @@ I'm passionate about creating amazing web experiences and sharing knowledge with
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DassoAhmed&show_icons=true&theme=radical" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DassoAhmed&layout=compact&theme=radical" alt="Top Languages" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DassoAhmed&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DassoAhmed&show_icons=true&theme=radical&hide_border=true" alt="DassoAhmed's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DassoAhmed&theme=radical&hide_border=true" alt="DassoAhmed's GitHub Streak" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DassoAhmed&layout=compact&theme=radical&hide_border=true" alt="DassoAhmed's Top Languages" width="45%" />
 </div>
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/DassoAhmed/DassoAhmed/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DassoAhmed/DassoAhmed/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DassoAhmed/DassoAhmed/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://github.com/DassoAhmed/DassoAhmed/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+> **Note:** The snake animation requires a GitHub Action to generate. Add this workflow to see it: [Platane/snk](https://github.com/Platane/snk)
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DassoAhmed&theme=react-dark&hide_border=true" alt="DassoAhmed's Activity Graph" width="95%" />
+</div>
 
 ## 📫 Connect With Me
 
@@ -76,5 +91,9 @@ I'm passionate about creating amazing web experiences and sharing knowledge with
 - 📸 Instagram: [@baban_camarou](https://www.instagram.com/baban_camarou/)
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
 
 ⭐️ From [Dasso Ahmed](https://github.com/DassoAhmed)
