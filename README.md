@@ -143,8 +143,7 @@ I'm passionate about creating amazing web experiences and sharing knowledge with
 📧 **Email:** dassoahmed@gmail.com  
 💼 **LinkedIn:** [Ahmadou Dasso](https://www.linkedin.com/in/ahmadou-dasso-4bb780179/)  
 📸 **Instagram:** [@baban_camarou](https://www.instagram.com/baban_camarou/)  
-🐦 **Facebook:** [@ahmed.nidal.311](https://www.facebook.com/ahmed.nidal.311)
-
+👤 **Facebook:** [@ahmed.nidal.311](https://www.facebook.com/ahmed.nidal.311)
 </div>
 
 ## 💰 Support My Work
